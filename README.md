@@ -1,5 +1,7 @@
 # MWAD-EX_03-To-Do-List-using-JavaScript
-## Date:
+## Name : MONISH R
+## Reg No : 212223220061
+## Date: 26.08.2025
 
 ## AIM
 To create a To-do Application with all features using JavaScript.
@@ -38,7 +40,10 @@ Upload to GitHub Pages for free hosting.
 ## PROGRAM
 
 
+
+
 ## OUTPUT
+<img width="1919" height="903" alt="Screenshot 2025-08-26 175301" src="https://github.com/user-attachments/assets/8c09c659-ea6a-4964-a720-109cfee2f48d" />
 
 
 ## RESULT
